@@ -299,4 +299,5 @@ newIndexToOldIndexMap 此时为 [4,5,3,0]
 
 生成 newIndexToOldIndexMap 的最长递增子序列，为 [0,1] ,注意里面放的是 newIndexToOldIndexMap 的下标
 
-![Untitled (Draft)-6](/Users/chenlong30/MyCode/TinyVue/doc/asset/Untitled%20(Draft)-6.jpg)
+![draft](/Users/chenlong30/MyCode/TinyVue/doc/asset/draft-diff.jpg)
+

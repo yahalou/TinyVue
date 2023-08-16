@@ -5,6 +5,7 @@ TinyVue
 ├── doc
 ├── package-lock.json
 ├── package.json
+├── compileDemo     编译器部分的简单实现
 ├── packages
 │ ├── compiler-core 编译器核心模块
 │ ├── compiler-dom  浏览器部分编辑器模块

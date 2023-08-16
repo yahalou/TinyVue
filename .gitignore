@@ -3,4 +3,6 @@ node_modules
 test.js
 packages/vue/dist
 doc/node_modules
-
+doc/.vitepress/dist
+package-lock.json
+doc/package-lock.json
