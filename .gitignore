@@ -1,0 +1,6 @@
+node_modules
+.vscode/
+test.js
+packages/vue/dist
+doc/node_modules
+
