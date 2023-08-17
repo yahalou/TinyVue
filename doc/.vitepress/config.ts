@@ -60,8 +60,49 @@ export default defineConfig({
                     text: '运行时',
                     items: [
                         {
-                            text: '相关概念',
+                            text: '运行时核心',
                             link: '/implementation/runtime/mechanism'
+                        },
+                        {
+                            text: 'h函数',
+                            link: '/implementation/runtime/h'
+                        },
+                        {
+                            text: 'render函数',
+                            link: '/implementation/runtime/render'
+                        },
+                        {
+                            text: '组件',
+                            link: '/implementation/runtime/component'
+                        },
+                        {
+                            text: 'diff算法',
+                            link: '/implementation/runtime/diff'
+                        }
+                    ]
+                },
+                {
+                    text: '编译时',
+                    items: [
+                        {
+                            text: '编译时核心',
+                            link: '/implementation/compiler/mechanism'
+                        },
+                        {
+                            text: 'parse函数',
+                            link: '/implementation/compiler/parse'
+                        },
+                        {
+                            text: 'transform函数',
+                            link: '/implementation/compiler/transform'
+                        },
+                        {
+                            text: 'generate函数',
+                            link: '/implementation/compiler/generate'
+                        },
+                        {
+                            text: '运行时+编译时：createApp函数',
+                            link: '/implementation/compiler/createApp'
                         }
                     ]
                 }
