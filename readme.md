@@ -2,6 +2,25 @@
 
 简易版本的 vue3 实践
 
+## 文档
+
+[tinyvue.pages.dev](https://tinyvue.pages.dev)
+
+## 示例
+
+[所有示例代码](packages/vue/examples)
+
+## 使用
+
+```
+npm install
+npm run build
+```
+
+产物为`packages/vue/dist/vue.js`
+
+## 目录结构
+
 ```
 TinyVue
 ├── doc
@@ -19,11 +38,3 @@ TinyVue
 ├── rollup.config.js
 └── tsconfig.json
 ```
-
-## 文档
-
-[tinyvue.pages.dev](https://tinyvue.pages.dev)
-
-## 示例
-
-[所有示例代码](packages/vue/examples)
