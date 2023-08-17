@@ -85,7 +85,7 @@ function transformText(node) {
 
 ### 回调函数
 
-![image-20230816200611977](/Users/chenlong30/MyCode/TinyVue/doc/asset/image-20230816200611977.png)
+![image-20230816200611977](../../asset/image-20230816200611977.png)
 
 我们把进入回调函数存储到 nodeTransforms 数组中，退出阶段的回调函数数组存储到 exitFns 数组中
 

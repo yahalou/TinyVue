@@ -163,7 +163,7 @@ function mountComponent(vnode, container, anchor) {
 
 ## 生命周期
 
-![组件生命周期图示](/Users/chenlong30/MyCode/TinyVue/doc/asset/lifecycle.16e4c08e.png)
+![组件生命周期图示](../../asset/lifecycle.16e4c08e.png)
 
 ## 调度器
 

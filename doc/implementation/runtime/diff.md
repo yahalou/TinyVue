@@ -222,7 +222,7 @@ function getSequence(arr) {
 
 第一步：先创建一个空数组result保存索引。遍历nums，将当前项`current`和result的最后一项对应的值`last`进行比较。如果当前项大于最后一项，直接往result中新增一项；否则，针对result数组进行二分查找，找到并替换比当前项大的那项。**下图示意图中为了方便理解result存放的是nums中的值，实际代码存放的是数组索引。**
 
-![img-diff-1](/Users/chenlong30/MyCode/TinyVue/doc/asset/v2-f4f292971dfb45096f64948f1444122d_1440w.webp)
+![img-diff-1](../../asset/v2-f4f292971dfb45096f64948f1444122d_1440w.webp)
 
 第二步：步骤1得到的结果不正确，要利用p数组修正
 
@@ -230,11 +230,11 @@ function getSequence(arr) {
 
 注意：nums和prevIndex一一对应
 
-![img](/Users/chenlong30/MyCode/TinyVue/doc/asset/v2-bc24b8daec637063a8618b7b71bb5d38_1440w.webp)
+![img](../../asset/v2-bc24b8daec637063a8618b7b71bb5d38_1440w.webp)
 
 前驱节点的作用：
 
-![A53A718CBA7313C1187BAA941A2586BB](/Users/chenlong30/MyCode/TinyVue/doc/asset/A53A718CBA7313C1187BAA941A2586BB.png)
+![A53A718CBA7313C1187BAA941A2586BB](../../asset/A53A718CBA7313C1187BAA941A2586BB.png)
 
 
 
@@ -242,7 +242,7 @@ function getSequence(arr) {
 
 对于
 
-![img-diff-core](/Users/chenlong30/MyCode/TinyVue/doc/asset/v2-b0be64beb9555682d2b8f467e28ad2b9_1440w.webp)
+![img-diff-core](../../asset/v2-b0be64beb9555682d2b8f467e28ad2b9_1440w.webp)
 
 1. 创建一个 <key（新节点的 key）:index（新节点的位置）> 的 Map 对象 keyToNewIndexMap。通过该对象可知：新的 child（根据 key 判断指定 child） 更新后的位置（根据对应的 index 判断）在哪里
 
@@ -287,7 +287,7 @@ function getSequence(arr) {
 
 newIndexToOldIndexMap 此时为 [4,5,3,0]
 
-![Cache_568f5145aa34f53e](/Users/chenlong30/MyCode/TinyVue/doc/asset/Cache_568f5145aa34f53e.jpg)
+![Cache_568f5145aa34f53e](../../asset/Cache_568f5145aa34f53e.jpg)
 
 
 
@@ -299,14 +299,5 @@ newIndexToOldIndexMap 此时为 [4,5,3,0]
 
 生成 newIndexToOldIndexMap 的最长递增子序列，为 [0,1] ,注意里面放的是 newIndexToOldIndexMap 的下标
 
-![draft](/Users/chenlong30/MyCode/TinyVue/doc/asset/draft-diff.jpg)
+![draft](../../asset/draft-diff.jpg)
 
-
-
-录音
-
-想报考直博项目，哪些老师有名额
-
-只要是密西根学院的都可以
-
-修了不少电子类的课程，背景比较宽广，都很匹配

@@ -211,7 +211,7 @@ function tokenize(str) {
 
 ### 状态机
 
-![image-20230816184248895](/Users/chenlong30/MyCode/TinyVue/doc/asset/image-20230816184248895.png)
+![image-20230816184248895](../../asset/image-20230816184248895.png)
 
 ## 结果
 
@@ -323,22 +323,22 @@ ast={
 
 ### 过程
 
-![image-20230816190550982](/Users/chenlong30/MyCode/TinyVue/doc/asset/image-20230816190550982.png)
+![image-20230816190550982](../../asset/image-20230816190550982.png)
 
-![image-20230816190611172](/Users/chenlong30/MyCode/TinyVue/doc/asset/image-20230816190611172.png)
+![image-20230816190611172](../../asset/image-20230816190611172.png)
 
-![image-20230816190621955](/Users/chenlong30/MyCode/TinyVue/doc/asset/image-20230816190621955.png)
+![image-20230816190621955](../../asset/image-20230816190621955.png)
 
-![image-20230816190631475](/Users/chenlong30/MyCode/TinyVue/doc/asset/image-20230816190631475.png)
+![image-20230816190631475](../../asset/image-20230816190631475.png)
 
-![image-20230816190641640](/Users/chenlong30/MyCode/TinyVue/doc/asset/image-20230816190641640.png)
+![image-20230816190641640](../../asset/image-20230816190641640.png)
 
-![image-20230816190650533](/Users/chenlong30/MyCode/TinyVue/doc/asset/image-20230816190650533.png)
+![image-20230816190650533](../../asset/image-20230816190650533.png)
 
-![image-20230816190658701](/Users/chenlong30/MyCode/TinyVue/doc/asset/image-20230816190658701.png)
+![image-20230816190658701](../../asset/image-20230816190658701.png)
 
-![image-20230816190706018](/Users/chenlong30/MyCode/TinyVue/doc/asset/image-20230816190706018.png)
+![image-20230816190706018](../../asset/image-20230816190706018.png)
 
-![image-20230816190714188](/Users/chenlong30/MyCode/TinyVue/doc/asset/image-20230816190714188.png)
+![image-20230816190714188](../../asset/image-20230816190714188.png)
 
-![image-20230816190721612](/Users/chenlong30/MyCode/TinyVue/doc/asset/image-20230816190721612.png)
+![image-20230816190721612](../../asset/image-20230816190721612.png)
