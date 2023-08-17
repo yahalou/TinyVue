@@ -19,6 +19,6 @@ TinyVue
 ```
 
 ## 文档
-[tinyvue.pages.dev](tinyvue.pages.dev)
+[tinyvue.pages.dev](https://tinyvue.pages.dev)
 ## 实例
 [所有实例代码](packages/vue/examples)
