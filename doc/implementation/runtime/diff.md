@@ -301,3 +301,12 @@ newIndexToOldIndexMap 此时为 [4,5,3,0]
 
 ![draft](/Users/chenlong30/MyCode/TinyVue/doc/asset/draft-diff.jpg)
 
+
+
+录音
+
+想报考直博项目，哪些老师有名额
+
+只要是密西根学院的都可以
+
+修了不少电子类的课程，背景比较宽广，都很匹配
