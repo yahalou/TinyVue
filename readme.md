@@ -1,6 +1,8 @@
 # TinyVue
-简易版本的vue3实践
-```js
+
+简易版本的 vue3 实践
+
+```
 TinyVue
 ├── doc
 ├── package-lock.json
@@ -19,6 +21,9 @@ TinyVue
 ```
 
 ## 文档
+
 [tinyvue.pages.dev](https://tinyvue.pages.dev)
-## 实例
-[所有实例代码](packages/vue/examples)
+
+## 示例
+
+[所有示例代码](packages/vue/examples)
