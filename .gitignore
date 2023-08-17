@@ -6,3 +6,6 @@ doc/node_modules
 doc/.vitepress/dist
 package-lock.json
 doc/package-lock.json
+.DS_Store
+.prettierignore
+.prettierrc
