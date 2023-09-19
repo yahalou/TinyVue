@@ -1,4 +1,4 @@
-export { reactive, effect, ref, computed } from '@vue/reactivity'
+export { reactive, effect, ref, computed } from '@vue/reactivity';
 
 export {
     queuePreFlushCb,
@@ -8,11 +8,13 @@ export {
     Text,
     Comment,
     createElementVNode,
-    createCommentVNode
-} from '@vue/runtime-core'
+    createCommentVNode,
+} from '@vue/runtime-core';
 
-export { render, createApp } from '@vue/runtime-dom'
+export { render, createApp } from '@vue/runtime-dom';
 
-export { compile } from '@vue/vue-compat'
+export { compile } from '@vue/vue-compat';
 
-export { toDisplayString } from '@vue/shared'
+export { toDisplayString } from '@vue/shared';
+
+export { baseParse, transform } from '@vue/compiler-core';

@@ -1,10 +1,10 @@
-import { extend } from '@vue/shared'
-import { generate } from './codegen'
-import { baseParse } from './parse'
-import { transform } from './transform'
-import { transformElement } from './transforms/transformElement'
-import { transformText } from './transforms/transformText'
-import { transformIf } from './transforms/vIf'
+import { extend } from '@vue/shared';
+import { generate } from './codegen';
+import { baseParse } from './parse';
+import { transform } from './transform';
+import { transformElement } from './transforms/transformElement';
+import { transformText } from './transforms/transformText';
+import { transformIf } from './transforms/vIf';
 
 export function baseCompile(template: string, options = {}) {
     /**
@@ -18,14 +18,14 @@ export function baseCompile(template: string, options = {}) {
       </div>
       `
    */
-    const ast = baseParse(template.trim())
+    const ast = baseParse(template.trim());
 
     transform(
         ast,
         extend(options, {
-            nodeTransforms: [transformElement, transformText, transformIf]
+            nodeTransforms: [transformElement, transformText, transformIf],
         })
-    )
+    );
 
-    return generate(ast)
+    return generate(ast);
 }
